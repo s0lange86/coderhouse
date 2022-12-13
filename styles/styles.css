@@ -1,3 +1,5 @@
+/* VIEJA HOJA DE ESTILOS ANTES DE USAR SASS (NO LINKEADA EN LOS HTML'S) - PROXIMAMENTE A ELIMINAR!!! POR FAVOR NO CONSIDERAR */
+
 /* FUENTES */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
 
@@ -28,10 +30,10 @@ p{
 
 /* INDEX: */
 
-.contenido_principal{
+/* .contenido_principal{
     width: 100vw;
     height: 100vh;
-}
+} */
 
 .main_index{
     display: flex;
