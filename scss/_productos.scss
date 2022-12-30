@@ -38,6 +38,10 @@
                 .card-title{
                     font-size: 1.10rem;
                 }
+
+                &:hover{
+                    @include efecto_hover(0.35s, 1.1);
+                }
             }
         }
     }
